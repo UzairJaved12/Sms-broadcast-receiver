@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SmsBroadcastReceiver.iml" filepath="$PROJECT_DIR$/SmsBroadcastReceiver.iml" />
-      <module fileurl="file://C:\Projects\Android\SmsBroadcastReceiver\sample\app.iml" filepath="C:\Projects\Android\SmsBroadcastReceiver\sample\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmsBroadcastReceiverr.iml" filepath="$PROJECT_DIR$/.idea/modules/SmsBroadcastReceiverr.iml" group="SmsBroadcastReceiverr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/SmsBroadcastReceiverr-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/SmsBroadcastReceiverr-sample.iml" group="SmsBroadcastReceiverr/sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smsbroadcastreceiverlib/SmsBroadcastReceiverr-smsbroadcastreceiverlib.iml" filepath="$PROJECT_DIR$/.idea/modules/smsbroadcastreceiverlib/SmsBroadcastReceiverr-smsbroadcastreceiverlib.iml" group="SmsBroadcastReceiverr/smsbroadcastreceiverlib" />
+      <module fileurl="file://C:/Projects/Android/SmsBroadcastReceiver/sample/app.iml" filepath="C:/Projects/Android/SmsBroadcastReceiver/sample/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/smsbroadcastreceiverlib/smsbroadcastreceiverlib.iml" filepath="$PROJECT_DIR$/smsbroadcastreceiverlib/smsbroadcastreceiverlib.iml" />
     </modules>
